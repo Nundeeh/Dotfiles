@@ -7,5 +7,5 @@
 
 alias ls='ls --color=auto'
 alias la='ls -a'
-alias vi='vim'
+alias v='vim'
 PS1='[\u@\h \W]\$ '
