@@ -195,6 +195,6 @@ bar {
 
 }
 
-exec feh --bg-max ~/wallpaper.jpe
+exec nohup ~/projects/i3bg/i3.py
 #Disable window info border
 for_window[class="^.*"] border pixel 0
