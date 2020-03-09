@@ -5,6 +5,10 @@ syntax on
 set nu
 set relativenumber
 set expandtab
-set shiftwidth=2
-set softtabstop=2
+set autoindent
+set tabstop=4
+set shiftwidth=4
+set hidden
+set hls
+let g:racer_cmd = "~/.cargo/bin/racer"
 

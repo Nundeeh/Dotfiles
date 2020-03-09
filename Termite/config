@@ -34,6 +34,6 @@ color20 = #838184
 color21 = #c3c3c3
 
 [options]
-font = Droid Sans Mono 11
+font = Hack 11
 allow_bold = true
 audible_bell = false
